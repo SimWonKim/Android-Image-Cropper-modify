@@ -8,7 +8,9 @@
     <string name="ic_flip_24_horizontally">Flip horizontally</string>
     <string name="ic_flip_24_vertically">Flip vertically</string>
     <string name="pick_image_chooser_title">Select source</string>
-    <string name="pick_image_camera">Camera</string>
-    <string name="pick_image_gallery">Gallery</string>
+<!--    <string name="pick_image_camera">Camera</string>-->
+<!--    <string name="pick_image_gallery">Gallery</string>-->
+    <string name="pick_image_camera">촬영하기</string>
+    <string name="pick_image_gallery">갤러리에서 가져오기</string>
     <string name="crop_image_activity_no_permissions">Cancelling, required permissions are not granted</string>
 </resources>
